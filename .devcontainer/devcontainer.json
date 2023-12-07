@@ -1,0 +1,11 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/php:7.4-apache-buster",
+  "features": {   
+    "ghcr.io/devcontainers/features/node:1": {
+
+      "version": "16"
+
+    }
+
+  }
+}
